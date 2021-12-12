@@ -33,7 +33,7 @@
     "grunt-cli": "1.4.3",
     "grunt-config-dir": "0.3.2",
     "grunt-contrib-clean": "2.0.0",
-    "grunt-contrib-less": "1.4.1",
+    "grunt-contrib-less": "3.0.0",
     "grunt-contrib-requirejs": "0.4.4",
     "grunt-copy-to": "0.0.12",
     "grunt-dustjs": "1.4.0",

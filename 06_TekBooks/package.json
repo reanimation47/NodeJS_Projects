@@ -10,7 +10,7 @@
     "all": "npm run build && npm run test"
   },
   "dependencies": {
-    "adaro": "^0.1.10",
+    "adaro": "^1.0.0",
     "connect-flash": "^0.1.1",
     "construx": "^1.0.0",
     "construx-copier": "^1.0.0",

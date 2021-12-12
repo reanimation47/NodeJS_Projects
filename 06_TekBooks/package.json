@@ -24,7 +24,7 @@
     "express-messages": "^1.0.1",
     "kraken-js": "^2.0.0",
     "localizr": "^0.1.6",
-    "mongodb": "^2.2.9",
+    "mongodb": "^4.0.0",
     "mongoose": "^4.6.0",
     "requirejs": "^2.3.1"
   },
